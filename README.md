@@ -53,11 +53,6 @@ I'm a passionate Full Stack Developer with expertise in Java, Spring Boot, Hiber
 - Open-source contributions in Spring Boot
 - Cloud security and encryption frameworks
 
-## 📫 How to Reach Me
-- Email: mastanmd6287@gmail.com
-- LinkedIn: https://www.linkedin.com/in/md-mastan-khan
-- GitHub: [@MohamadMastanKhan](https://github.com/MohamadMastanKhan)
-
 ## ⚡ Fun Fact
 - I love solving algorithmic challenges and coding puzzles 🧩
 - I run an Instagram account for meme promotions & ads in Telugu 🎭
