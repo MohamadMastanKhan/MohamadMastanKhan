@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with expertise in Java, Spring Boot, Hibernate, and database management. I have a strong foundation in Object-Oriented Programming and web technologies. I enjoy solving complex problems and building efficient, scalable applications.
+
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastanmd6287@gmail.com)
@@ -26,6 +27,7 @@ I'm a passionate Full Stack Developer with expertise in Java, Spring Boot, Hiber
 - **MCA in Computer Science** from Hyderabad Avanthi Degree & PG College (CGPA: 7.9)
 
 ## 🛠️ Skills
+
 ### Programming Languages:
 - Java, SQL, HTML5, CSS, Basics of JavaScript, Basics of Python
 
@@ -55,8 +57,22 @@ I'm a passionate Full Stack Developer with expertise in Java, Spring Boot, Hiber
 - Cloud security and encryption frameworks
 
 ## ⚡ Fun Fact
-- I love solving algorithmic challenges and coding puzzles 🧩
+- I love solving algorithmic challenges and coding puzzles 🧩  
 - I run an Instagram account for meme promotions & ads in Telugu 🎭
 
 ---
-✨ This repository is special because it's my GitHub profile README! Click the **Preview** link to check out my profile updates. 🚀
+
+## 📊 GitHub Analytics
+
+### 🔥 My GitHub Stats
+![MohamadMastanKhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamadMastanKhan&show_icons=true&theme=radical&hide=contribs,prs)
+
+### 📌 Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadMastanKhan&layout=compact&theme=radical)
+
+### 🚀 GitHub Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=MohamadMastanKhan&theme=radical)
+
+### 👀 Profile Views & Followers
+![Profile Views](https://komarev.com/ghpvc/?username=MohamadMastanKhan&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub Followers](https://img.shields.io/github/followers/MohamadMastanKhan?label=Follow&style=social)](https://github.com/MohamadMastanKhan)
